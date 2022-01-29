@@ -1,0 +1,4 @@
+id,name,description,is_finished,user_id,createdAt,updatedAt,id,username,password,createdAt,updatedAt
+1,Code,"Learn how to code",0,1,2022-01-29,2022-01-29,1,admin,$2b$10$4yls7.f/z5D6w6u4RAEFhOvOnWXLjgLSPlO6.mmKI/3IIWOdwcmK6,2022-01-29,2022-01-29
+3,sleep,sleep,1,1,2022-01-29,2022-01-29,1,admin,$2b$10$4yls7.f/z5D6w6u4RAEFhOvOnWXLjgLSPlO6.mmKI/3IIWOdwcmK6,2022-01-29,2022-01-29
+4,Repeat,"Repeat all",0,1,2022-01-29,2022-01-29,1,admin,$2b$10$4yls7.f/z5D6w6u4RAEFhOvOnWXLjgLSPlO6.mmKI/3IIWOdwcmK6,2022-01-29,2022-01-29
